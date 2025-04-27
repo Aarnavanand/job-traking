@@ -70,11 +70,5 @@ streamlit run app.py
 ```
 Live: https://job-tracking-hackathon.streamlit.app/
 
-### README Information
-- **Project Name**: Smart Resume AI
-- **Description**: An AI-powered platform for optimizing resumes
-- **License**: MIT License (Copyright © Het Patel)
-- **Community**: 
-  - Active GitHub community
-  - Discussions and contribution guidelines available
-- **Documentation**: Comprehensive contributor documentation provided
+📜 License
+This project is licensed under the MIT License.
